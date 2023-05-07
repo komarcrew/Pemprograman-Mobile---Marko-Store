@@ -1,4 +1,4 @@
-#Layout Loading Screen
+# Layout Loading Screen
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -135,4 +135,4 @@
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-
+![2](https://user-images.githubusercontent.com/101499377/236687173-833f0f2e-5843-4008-844a-96f16d60d5bd.png)
